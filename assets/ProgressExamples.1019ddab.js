@@ -1,0 +1,1 @@
+import{_ as o,z as e,r,o as a,G as n}from"./app.cef730ef.js";import"./index.56618267.js";const t={name:"ProgressExamples",components:{Progress:e}};function c(p,m,_,l,x,P){const s=r("Progress");return a(),n(s,{value:30,max:100})}var i=o(t,[["render",c]]);export{i as P};
