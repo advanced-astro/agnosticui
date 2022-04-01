@@ -1,0 +1,1 @@
+import{_ as a,c as s,o as n,d as t}from"./app.eae8984b.js";const m='{"title":"Empty States","description":"","frontmatter":{},"relativePath":"docs/css/empty-state.md","lastUpdated":1648740702308}',p={},o=t("",5),e=[o];function c(u,l,k,i,r,d){return n(),s("div",null,e)}var q=a(p,[["render",c]]);export{m as __pageData,q as default};

@@ -1,0 +1,1 @@
+import{_ as a,c as n,o as s,d as t}from"./app.eae8984b.js";const q='{"title":"Header","description":"","frontmatter":{},"relativePath":"docs/css/header.md","lastUpdated":1648740919234}',p={},o=t("",5),e=[o];function c(l,u,C,k,i,r){return s(),n("div",null,e)}var d=a(p,[["render",c]]);export{q as __pageData,d as default};

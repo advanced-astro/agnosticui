@@ -1,0 +1,1 @@
+import{_ as a,c as n,o as s,d as t}from"./app.eae8984b.js";const v='{"title":"Icon","description":"","frontmatter":{},"relativePath":"docs/css/icons.md","lastUpdated":1648741451627}',p={},o=t("",9),c=[o];function e(l,u,k,i,g,r){return s(),n("div",null,c)}var m=a(p,[["render",e]]);export{v as __pageData,m as default};
