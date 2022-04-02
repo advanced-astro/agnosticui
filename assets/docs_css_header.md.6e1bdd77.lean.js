@@ -1,0 +1,1 @@
+import{_ as a,c as n,o as s,d as t}from"./app.9daab52c.js";const q='{"title":"Header","description":"","frontmatter":{},"relativePath":"docs/css/header.md","lastUpdated":1648855347441}',p={},o=t("",6),e=[o];function c(l,u,C,k,i,r){return s(),n("div",null,e)}var d=a(p,[["render",c]]);export{q as __pageData,d as default};
