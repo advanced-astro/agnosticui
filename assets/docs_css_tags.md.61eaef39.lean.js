@@ -1,0 +1,1 @@
+import{_ as a,o as s,c as n,d as t}from"./app.1d67cbb6.js";const d='{"title":"Tags","description":"","frontmatter":{},"headers":[{"level":2,"title":"Usage","slug":"usage"}],"relativePath":"docs/css/tags.md"}',p={},e=t("",20),c=[e];function o(l,u,i,g,k,r){return s(),n("div",null,c)}var v=a(p,[["render",o]]);export{d as __pageData,v as default};
