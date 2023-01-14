@@ -1,0 +1,1 @@
+import{_ as a,o as n,c as s,d as t}from"./app.38e22fb0.js";const q='{"title":"Header","description":"","frontmatter":{},"headers":[],"relativePath":"docs/css/header.md"}',p={},o=t("",6),e=[o];function c(u,l,C,k,i,r){return n(),s("div",null,e)}var d=a(p,[["render",c]]);export{q as __pageData,d as default};
